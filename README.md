@@ -5,7 +5,10 @@
 
 ### To generate categories/tabs
 brew install yq
+
 bash _scripts/sh/create_pages.sh
+
+bash tools/build.sh
 
 ## Existing Readme
 
