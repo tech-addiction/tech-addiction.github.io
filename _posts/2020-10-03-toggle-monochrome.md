@@ -15,7 +15,7 @@ On Android devices for example, there is an option to make the screen monochrome
 
 To achieve this, I've created an application which makes it easy to toggle monochrome on Mac OSX Catalina. Try toggling on monochrome while using the computer, and see if you find it as enjoyable as before. I find the lack of colors doesn't do much too affect the usability of screens but it does lead me to not crave anymore screen time beyond what I do actually find enjoyable.
 
-You can find the application which toggles monochrome on OSX Cataling [here on Github](https://github.com/tech-addiction/MacOSX-Monochrome-Toggle) or download a .zip of the files via [Direct Download](https://github.com/tech-addiction/MacOSX-Monochrome-Toggle/archive/main.zip)
+You can find the application which toggles monochrome on OSX Catalina [here on Github](https://github.com/tech-addiction/MacOSX-Monochrome-Toggle) or download a .zip of the files via [Direct Download](https://github.com/tech-addiction/MacOSX-Monochrome-Toggle/archive/main.zip)
 
 Instructions for usage can be found [here on Github](https://github.com/tech-addiction/MacOSX-Monochrome-Toggle#usage)
 
