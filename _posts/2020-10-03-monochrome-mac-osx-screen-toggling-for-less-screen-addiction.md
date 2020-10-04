@@ -1,9 +1,9 @@
 ---
 title: Monochrome Mac OSX screen toggling for less screen addiction
 author: Tech-Addiction
-date: 2020-10-03 10:00:00 +0400
+date: 2020-10-03 14:00:00 -0400
 categories: [Strategies]
-tags: [monochrome]
+tags: [monochrome, macosx]
 pin: true
 ---
 
