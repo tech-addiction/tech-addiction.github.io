@@ -3,7 +3,7 @@ title: Mac OSX transparent application icons for less impulse usage
 author: Tech-Addiction
 date: 2020-10-04 14:00:00 -0400
 categories: [Strategies]
-tags: [macosx, icns]
+tags: [macosx, icons]
 pin: true
 ---
 
