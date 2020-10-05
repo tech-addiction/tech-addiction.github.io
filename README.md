@@ -2,6 +2,11 @@
 
 ## Custom
 
+## Before pushing
+
+bash _scripts/sh/create_pages.sh
+
+bash tools/build.sh
 
 ### To generate categories/tabs
 brew install yq
