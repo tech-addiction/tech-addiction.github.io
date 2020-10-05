@@ -27,3 +27,5 @@ You can find the transparent.icns file [here on Github](https://github.com/tech-
 Instructions how to use the transparent.icns file are [here on Github](https://github.com/tech-addiction/MacOSX-Transparent-Icns#usage).
 
 Caveat: After Mac OSX 10.6 the icons for standard Mac OSX applications are read only and cannot be changed unless you turn off System Integrity Protection. I do not recommend doing that tho, instead I now just replace the icons on non standard applications.
+
+Hope this helps you and/or inspires you to use the computer less!

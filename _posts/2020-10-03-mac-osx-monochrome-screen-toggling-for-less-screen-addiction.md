@@ -1,5 +1,5 @@
 ---
-title: Monochrome Mac OSX screen toggling for less screen addiction
+title: Mac OSX monochrome screen toggling for less screen addiction
 author: Tech-Addiction
 date: 2020-10-03 14:00:00 -0400
 categories: [Strategies]
@@ -19,4 +19,5 @@ You can find the application which toggles monochrome on OSX Catalina [here on G
 
 Instructions for usage can be found [here on Github](https://github.com/tech-addiction/MacOSX-Monochrome-Toggle#usage)
 
+Hope this helps you and/or inspires you to use the computer less!
 
