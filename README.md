@@ -8,8 +8,6 @@ bash _scripts/sh/create_pages.sh
 
 bash tools/build.sh
 
-bash tools/deploy.sh
-
 ### To generate categories/tabs
 brew install yq
 
